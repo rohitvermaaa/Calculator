@@ -42,4 +42,3 @@ Rohit
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 ```
 
-You can replace `"Your Name"` in the author section with your actual name or leave it as is. Additionally, if you have any specific license for your project, replace the MIT License with the appropriate license information. You can also include screenshots of your calculator application in the "Screenshots" section if you have any.
